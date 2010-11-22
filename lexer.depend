@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1289696439 source:d:\programming\c++\lexer\main.cpp
+	"lexer.h"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1289696568 d:\programming\c++\lexer\lexer.h
+	"string"
+	<map>
+	<iostream>
+
